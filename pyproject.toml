@@ -1,4 +1,7 @@
 [project]
+name = "dependabot-notifications"
+version = "0.1.0"
+
 dependencies = [
     # 6.10.1 will introduce Python 3.14 support,
     # need to update the projects using it to allow them support 3.14 too.
