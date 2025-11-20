@@ -1,0 +1,10 @@
+[project]
+name = "dependabot-notifications"
+requires-python = ">=3.9"
+
+dependencies = [
+    # 6.10.1 will introduce Python 3.14 support,
+    # need to update the projects using it to allow them support 3.14 too.
+    # https://bugreports.qt.io/browse/PYSIDE-3226
+    "PySide6-Essentials==6.9.0",
+]
