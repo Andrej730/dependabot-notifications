@@ -5,4 +5,6 @@ updates:
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
-      interval: "weekly"
+      # Don't use "daily", because it doesn't run on the weekends.
+      interval: "cron"
+      cronjob: "0 12 * * *"
