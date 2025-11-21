@@ -7,5 +7,5 @@ dependencies = [
     # need to update the projects using it to allow them support 3.14 too.
     # https://bugreports.qt.io/browse/PYSIDE-3226
     "PySide6-Essentials==6.10.0",
-    "pyodide-build==0.30.8",
+    "pyodide-build==0.30.9",
 ]
