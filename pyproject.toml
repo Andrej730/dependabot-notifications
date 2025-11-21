@@ -6,6 +6,6 @@ dependencies = [
     # 6.10.1 will introduce Python 3.14 support,
     # need to update the projects using it to allow them support 3.14 too.
     # https://bugreports.qt.io/browse/PYSIDE-3226
-    "PySide6-Essentials==6.10.0",
+    "PySide6-Essentials==6.10.1",
     "pyodide-build==0.30.9",
 ]
