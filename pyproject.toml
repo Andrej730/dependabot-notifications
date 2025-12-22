@@ -11,5 +11,5 @@ dependencies = [
 dev = [
     "black==25.11",
     "poethepoet",
-    "gersemi==0.23",
+    "gersemi==0.24.0",
 ]
