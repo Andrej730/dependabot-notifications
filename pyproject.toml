@@ -9,7 +9,7 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = [
-    "black==25.11",
+    "black==25.12.0",
     "poethepoet",
     "gersemi==0.23",
 ]
