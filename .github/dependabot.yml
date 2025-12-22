@@ -8,3 +8,5 @@ updates:
       # Don't use "daily", because it doesn't run on the weekends.
       interval: "cron"
       cronjob: "0 12 * * *"
+    allow:
+      - dependency-type: "all"
