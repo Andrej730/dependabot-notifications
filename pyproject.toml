@@ -12,4 +12,5 @@ dev = [
     "ruff==0.13.0",
     "poethepoet",
     "gersemi==0.22",
+    "wakeonlan==3.0.0",
 ]
