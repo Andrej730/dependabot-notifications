@@ -8,6 +8,6 @@ dependencies = [
     "ruff==0.13.0",
     "poethepoet",
     "gersemi==0.22",
-    "wakeonlan==3.0.0",
+    "wakeonlan==3.1.0",
 ]
 
