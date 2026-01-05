@@ -3,7 +3,7 @@ name = "dependabot-notifications"
 requires-python = ">=3.12"
 
 dependencies = [
-    "pyodide-build==0.30.9",
+    "pyodide-build==0.31.1",
     "black==24.0",
     "ruff==0.13.0",
     "poethepoet",
