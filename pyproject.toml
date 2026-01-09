@@ -5,7 +5,7 @@ requires-python = ">=3.12"
 dependencies = [
     "pyodide-build==0.30.9",
     "black==24.0",
-    "ruff==0.13.0",
+    "ruff==0.14.11",
     "poethepoet",
     "gersemi==0.22",
     "wakeonlan==3.0.0",
